@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "youruser-books-dev"
-        STAGE_PROJECT = "youruser-books-stage"
+        DEV_PROJECT = "depanoe-books-dev"
+        STAGE_PROJECT = "depanoe-books-stage"
         APP_GIT_URL = "https://github.com/depanoe/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap1.prod.nextcle.com"
 
